@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "classnames": "^2.2.6",
+    "color-picker": "0.0.1",
     "react": "^16.8.6",
+    "react-color": "^2.17.3",
+    "react-color-picker": "^4.0.2",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "throttle-debounce": "^2.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
